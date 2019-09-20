@@ -1,5 +1,6 @@
 # Model price of Airbnb Boston
 
+### Blog post: https://medium.com/@chencheninee/use-data-science-to-see-the-price-of-airbnb-83e592809d1f
 ### Motivation
 
 Find out what would the factors that effect the price of Airbnb
